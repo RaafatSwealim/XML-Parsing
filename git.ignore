@@ -1,0 +1,2 @@
+/.idea/ *.iml *.class *.log
+/target//build/
